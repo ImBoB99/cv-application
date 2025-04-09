@@ -21,6 +21,8 @@ body {
   line-height: 1.5;
   -webkit-font-smoothing: antialiased;
   font-family: "Ubuntu", Arial, sans-serif;
+  background-color: #181717;
+  color: rgb(243, 238, 238);
 }
 
 img, picture, video, canvas, svg {
