@@ -1,12 +1,27 @@
-# React + Vite
+# 📝 CV Generator (Odin Project)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React-based CV builder that allows users to input and preview their personal, educational, and practical experience information dynamically. This project was built as part of the [Odin Project](https://www.theodinproject.com/) curriculum to learn modern React development practices.
 
-Currently, two official plugins are available:
+## 🔧 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📋 Input personal, education, and job experience data
+- ➕ Dynamically add or remove multiple job entries
+- 🖨️ Preview formatted CV
+- 🧾 Basic date formatting using `date-fns`
+- 🎨 Styled with Tailwind CSS
+- ✅ Client-side form validation
 
-## Expanding the ESLint configuration
+### 📦 Prerequisites
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Make sure you have the following installed:
+
+- [Node.js](https://nodejs.org/)
+- [npm](https://www.npmjs.com/)
+- [Git](https://git-scm.com/)
+
+### 🔨 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/cv-application.git
+   cd cv-application
