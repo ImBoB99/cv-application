@@ -1,9 +1,0 @@
-.form-group-container h2 {
-  color: rgb(236, 226, 226);
-}
-
-.form-group {
-  display: flex;
-  flex-direction: column;
-  max-width: 200px;
-}
